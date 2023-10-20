@@ -1,1 +1,2 @@
 # StockSneaks
+O TêniStock é a solução perfeita para lojas e revendedores de tênis que desejam simplificar o gerenciamento de estoque e vendas de calçados. Com este aplicativo intuitivo, você pode cadastrar facilmente seus produtos, acompanhar o estoque em tempo real e registrar todas as transações de vendas. Gerêncie o andamento dos pedidos com os fabricantes, fornecedores, clientes e produtos com eficiência, mantendo o controle total sobre o seu estoque de tênis.
